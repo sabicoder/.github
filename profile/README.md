@@ -1,6 +1,6 @@
 # Data Danfo
 
-Software and Data on Kubernetes
+Open Source [Software and Data on Kubernetes]
 
 ## Tech Stack
 
