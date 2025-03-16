@@ -1,10 +1,15 @@
-# Data Danfo
-
-Open Source [Software and Data on Kubernetes]
 
 ## Tech Stack
 
-* Kubernetes
-* UI  (React /Svelte)
-* Microservices ( Django and Go Fiber)
-* Languages (Python, Golang, Javascript)
+* Kubernetes/Docker
+* UI  (Nextjs/Nuxt/React Native)
+* Microservices (Hono and FastApi)
+* Languages (Python, Javascript/Typescript/, Scala, Rust, Golang)
+* Data (Spark, Dbt, Snowflake, Kafka, SQL, Informatica, Airflow, Airbyte)
+* AI ( Langgraph, Keras, PyTorch)
+
+
+
+# Data Danfo
+
+
